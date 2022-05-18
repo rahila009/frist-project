@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .card{
+    border: 1px solid grey;
+    background-image: url('./img/pexels-fox-225157.jpg');
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    width: 40%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    
+    background-position: center;
+    
+}
+.main{
+    margin-top: 300px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+.card h3{
+    
+    color: white;
+   
+
+}
+.card h1{
+    font-size: 20px;
+    color: white;
+    font-size: 40px;
+
+}
